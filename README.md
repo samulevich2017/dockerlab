@@ -21,3 +21,5 @@ Open API Documentation is provided by [Redoc](http://localhost:8000/redoc)
 
 # Check is working
  localhost:8000
+
+[original repo](https://github.com/kabirul/python-fastapi-postgresql-crud-example)
